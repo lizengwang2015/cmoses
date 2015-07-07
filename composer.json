@@ -1,0 +1,8 @@
+{
+  "name":"lizengwang/cmoses",
+  "version": "0.0.1-alpha",
+  "desciption":"php development framework with composer",
+  "require":{
+    "monolog/monolog":"1.0.*"
+  }
+}
